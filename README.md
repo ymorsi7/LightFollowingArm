@@ -6,8 +6,7 @@ The objective of this project, which was a part of my ECE 5: Introduction to Ele
 https://www.youtube.com/embed/p5GxtdExcM8
 
 
-## Pictures of the Circuit and Board Used: 
-The micro-processor used is an Arduino MEGA.
+## Pictures of the Circuit and Board (Arduino MEGA) Used: 
 ![P1](https://user-images.githubusercontent.com/25945365/141716671-eb05de43-8c49-43e2-a8be-e814ea75f36d.PNG)
 ![P2](https://user-images.githubusercontent.com/25945365/141716674-fc528af1-1e86-488c-bd61-40a68d90712f.PNG)
 ![P3](https://user-images.githubusercontent.com/25945365/141716675-6754b72b-16c7-4e1d-81f2-18acf8aac7f1.PNG)
