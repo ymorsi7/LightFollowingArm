@@ -10,5 +10,4 @@ https://www.youtube.com/embed/p5GxtdExcM8
 ![P3](https://user-images.githubusercontent.com/25945365/141716675-6754b72b-16c7-4e1d-81f2-18acf8aac7f1.PNG)
 ![P4](https://user-images.githubusercontent.com/25945365/141716679-15a88d30-de3b-451f-902f-9d63f18b55fa.PNG)
 
-
-![MATLABGraphs](https://user-images.githubusercontent.com/25945365/141716689-bae180a8-1fa6-41f9-b533-794035ef61e4.PNG)
+![MATLABGUI](https://user-images.githubusercontent.com/25945365/141716782-25c8ef41-1f1c-4d8a-8d5d-184d758340b5.PNG)
