@@ -1,6 +1,6 @@
 # LightFollowingArm
 ## December 8 2020
-The objective of this project, which was a part of my ECE 5: Introduction to Electrical Engineering course, was to enhance my understanding of photoresistors, MATLAB, Arduino and Arduino-C, servo motors, and PID Control Systems. Using a PID Control System involves altering different variables to produce a wanted output (in this case, the PID variables were changeable through a MATLAB GUI interface.
+The objective of this project, which was a part of my ECE 5: Introduction to Electrical Engineering course, was to enhance my understanding of photoresistors, MATLAB, Arduino and Arduino-C, servo motors, and PID Control Systems. Using a PID Control System involves altering different variables to produce a wanted output (in this case, the PID variables were changeable through a MATLAB GUI.
 
 ## Video of the Light-Following Arm: 
 https://www.youtube.com/embed/p5GxtdExcM8
